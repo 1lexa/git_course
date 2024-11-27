@@ -3,6 +3,7 @@
 1. **Introduction to Git (15 min)**
    - What is Git? 
             ...who knows???
+            NOT ME !!!
    - Basic structure of version control systems (VCS)
    - Why use Git?
    - Tools to use:
